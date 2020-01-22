@@ -1,0 +1,12 @@
+{
+    "name": "adril/my-project",
+    "authors": [
+        {
+            "name": "Adrien Lefevre",
+            "email": "adrillef@gmail.com"
+        }
+    ],
+    "require": {
+        "altorouter/altorouter": "^2.0"
+    }
+}
